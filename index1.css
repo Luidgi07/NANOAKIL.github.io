@@ -94,12 +94,12 @@ html{
   margin-left: 5%;
   margin-right: 2%;
   margin-bottom: 3%;
-  background-color: rgb(255, 237, 240);
+  background-color: rgb(255,240,255);
   padding: 1%;
 }
 
 .informacao h2{
-  background-color: rgb(255,192,203);
+  background-color: rgb(125,173,255);
   color: #ffffff;
   padding: 2%;
 }
